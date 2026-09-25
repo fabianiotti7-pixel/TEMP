@@ -2,5 +2,5 @@
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:10
 #EXTINF:10.0,
-https://webhook.site/cc853b0a-9e45-4b17-8a86-07135a002f3e/segment.ts
+http://webhook.site/cc853b0a-9e45-4b17-8a86-07135a002f3e/segment.ts
 #EXT-X-ENDLIST
